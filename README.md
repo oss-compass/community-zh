@@ -13,7 +13,7 @@ description: 关于开源指南针社区
 # 我们的愿景
 
 * 通过[开源指南针](https://oss-compass.org/), 我们帮助需要对社区进行数据分析的人。包括但不限于 OSPOs、社区管理人员、学术研究人员、项目所有者、维护者、开发者等。
-* 通过分析大量公开来源项目的实际数据，并参照行业最佳实践和学术界的研究结果，我们创建一个开源社区 [生态体系评估系统](https://github.com/oss-compass/docs/tree/main/metrics-models)，加以不断改进和优化，并通过[开源指南针](https://oss-compass.org/)反哺到开源社区。
+* 通过分析大量开源项目的实际数据，并参照行业最佳实践和学术界的研究结果，我们创建一个开源社区 [生态体系评估系统](https://github.com/oss-compass/docs/tree/main/metrics-models)，加以不断改进和优化，并通过[开源指南针](https://oss-compass.org/)反哺到开源社区。
 
 ## 快速入门
 
