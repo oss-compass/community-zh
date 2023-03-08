@@ -1,80 +1,85 @@
 ---
-title: OSS COMPASS Privacy Policy
+title: 开源指南针隐私政策
 slug: /privacy-policy
 tags:
-  - Privacy Policy
-description: OSS COMPASS Privacy Policy
+  - 隐私政策
+description: 开源指南针隐私政策
 ---
 
-OSS Compass is provided by OSCHINA ("Shenzhen AOSI Network Technology Co.ltd" or "we/us") and we are committed to protecting the privacy of the user of our services and our website ("You/r"). This Privacy Policy is part of the OSS Compass Terms of Use and explains our practices regarding the use of personal data collected and processed through our services and website. Defined terms set out herein shall have the same meaning as in OSS Compass Terms of Use of which it forms part.
+OSS Compass (以下简称为“开源指南针”) 由 OSCHINA（"深圳市奥思网络科技有限公司"或以下简称为 "我们"）提供，我们致力于保护我们的服务和网站的用户（以下简称为“您”）的隐私。本隐私政策是 开源指南针 使用条款的一部分，解释了我们对通过我们的服务和网站收集和处理的个人数据的使用做法。此处所列定义的术语应与构成其一部分的 开源指南针 使用条款中的含义相同。
 
-By accessing or using the Website in any form and in particular, by sending your data in a contact or registration form, you agree to be bound by these Privacy Policy. If you do not accept any term of these Privacy Policy, then you may not access the Website or use our services.
+以任何形式访问或使用本网站，特别是在联系或注册表格中发送您的数据，您同意接受这些隐私政策的约束。如果您不接受这些隐私政策的任何条款，那么您就不能访问本网站或使用我们的服务。
 
-The entity responsible for processing the data in the OSS Compass website or through our services is Shenzhen AOSI Network Technology Co.ltd, located at No. 136, Zhongkang Road, Futian District, Shenzhen (19th Floor, Building 4, Shenzhen New Generation Industrial Park). All communications regarding the processing of your personal data shall be directed to compass-service@gitee.com.
+负责处理 开源指南针 网站中的数据或通过我们的服务进行处理的实体是深圳市奥思奇网络科技有限公司，位于深圳市福田区中康路 136 号（深圳市新一代产业园 4 栋 19 楼）。所有关于您的个人数据处理的通信邮件都应发往 compass-service@gitee.com。
 
-## PERSONAL DATA
+## 个人数据
 
-Any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as name, identification number, location data, online identifier or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+任何与已知或可识别自然人有关的信息；可识别的自然人是指可以直接或间接地通过诸如姓名、身份证号码、位置数据、在线身份标识或与该自然人的身体、生理、遗传、心理、经济、文化或社会身份有关的一个或多个特定因素的标识符来识别的自然人。
 
-## PERSONAL DATA WE COLLECT
+## 我们收集的个人数据
 
-Log-in data: You must necessarily access the platform through the Gitee, GitHub portals of your choice by entering your credentials. When you access our services using third party credentials (Gitee, GitHub), we will import your information from any of these third parties to create an account on our service.
+登录数据：您必须通过选择的 Gitee、GitHub 门户网站输入您的凭据来访问平台。当您使用第三方凭据（Gitee、GitHub）访问我们的服务时，我们将从这些第三方中导入您的信息以创建我们服务的帐户。
 
-These data are mandatory and if they are not provided we cannot contact you and respond to your requests.
+这些数据采集是强制性的，如果未提供这些数据，我们将无法与您取得联系并回复您的请求。
 
-- Newsletter. If you want to subscribe to receive our newsletter, your email address will be collected in our webform "Join the newsletter" in order to send you the latest news about our Service.
-- Give us feedback: if you would like to give us feedback about our services, you will need to sign in to your Gitee/GitHub account by entering your email and password or through any of the other providers listed (Gitee, Github)
+- 动态订阅：如果您想订阅我们的通讯，您的电子邮件地址将通过我们提供的“动态订阅”网页表单被采集，以便向您发送关于我们服务的最新消息。
+- 提供反馈：如果您想给我们的服务提供反馈，您将需要通过输入您的电子邮件和密码或通过任何其他列出的供应商（Gitee、Github）登录到您的 Gitee/GitHub 账户。
 
-OSS Compass automatically collects data regarding your browsing of the website, such as your IP address, the browser you are using, the site from which you came and the site to which you are going when you leave the site.
+开源指南针 将自动收集有关您浏览网站的数据，如您的 IP 地址、您使用的浏览器、您访问本网站时的来源网址以及您离开网站时的跳转网址。
 
-## DATA COLLECTED AS DATA PROCESSOR
+## 作为数据处理器收集的数据
 
-The personal data which may be generated during the course of services provided by OSS Compass website services will be processed by us as a Data Processor. Under no circumstances the personal data of third parties resulting from our analysis services will be disclosed.
+在 开源指南针 网站服务过程中可能产生的个人数据将由我们作为数据处理器进行处理。在法律适用的情况下，我们的分析服务所产生的第三方的个人数据都不会被披露。
 
-## DATA QUALITY
+## 数据质量
 
-It is important that the personal data we hold about you is accurate and current. You are responsible for the accuracy of the information you provide to us and you are expected to update any information you provide us with.
+关于您的个人数据的准确性及保持更新是非常重要的。您需要对您提供给我们的信息的准确性负责，您应该更新您提供给我们的任何信息。
 
-## MARKETING CHOICES
+## 营销选择
 
-You may opt out of or withdraw your consent to receive direct marketing emails from us by using the unsubscribe or opt out mechanisms included in our marketing emails or by emailing compass-service@gitee.com. You may also unsubscribe from mailing lists via the applicable mailing list's subscription website or, in some cases, by using the unsubscribe mechanisms included in such emails.
+您可以通过使用我们的营销电子邮件中包含的退订或退出机制，或通过发送电子邮件至 compass-service@gitee.com，选择退出或撤回您对接收我们的直接营销电子邮件的同意。您也可以通过适用的邮件列表的订阅网站取消订阅，或者在某些情况下，通过使用此类电子邮件中包含的取消订阅机制。
 
-## DATA USE
+## 数据使用
 
-We use your personal data to: a) Contact you and manage the professional and commercial relationship with you. b) Manage any request you are asking us and provide our services. c) Send you newsletters, event announcements, product notices including those announcing changes to our terms or policies, promotional offers and surveys. d) For sign-in users, provide our services.
+我们使用您的个人数据来：
 
-Data collected automatically from website use will be maintained and used in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the site/s, and gather broad demographic information for aggregate use.
+1. 与您联系并管理与您的专业和商业关系。
+2. 管理您提出的任何请求并提供我们的服务。
+3. 向您发送新闻简报、活动公告、产品通知（包括宣布我们条款或政策变更的通知）、促销优惠和调查。
+4. 对于登录用户，提供我们的服务。
 
-## DATA SECURITY
+从网站使用中自动收集的数据将仅以聚合形式维护和使用，并且不包含个人身份信息。我们可能会利用这些聚合信息来分析趋势、管理网站并收集用于聚合使用的广泛人口统计信息。
 
-We have implemented commercially reasonable precautions designed to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security.
+## 数据安全
 
-We implement security measures and personal data protection schemes as required by law to maintain the confidentiality and integrity of your data and protection against unauthorized access, modification or destruction.
+我们已经实施了商业上合理的预防措施，旨在保护我们从损失、误用和未经授权的访问、披露、更改和破坏中收集的信息。请注意，尽管我们尽最大努力，但没有任何数据安全措施可以保证 100% 的安全性。
 
-You should take steps to protect against unauthorized access to your passwords, phone, and computer by, among other things, signing off after using a shared computer, choosing robust passwords that nobody else knows or can easily guess, not using a password for more than one site or service, and keeping your log-ins and passwords private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity. We ask you to promptly notify us if you become aware that any information provided by or submitted to our Sites or through our Services is lost, stolen, or used without permission at compass-service@gitee.com.
+我们根据法律要求实施安全措施和个人数据保护方案，以维护您的数据的机密性和完整性，并保护免受未经授权的访问、修改或破坏。
 
-## DATA TRANSFER / DISCLOSURE
+您应采取措施，防止密码、电话和计算机被未经授权的访问，包括在使用共享计算机后退出登录帐号、选择没有人知道或可以轻松猜测的强密码、不在多个站点或服务上使用同一个密码，以及保持您的登录和密码私密。我们不对任何丢失、被盗或被盗用的密码或通过未经授权的密码活动在您的帐户上的任何活动负责。如果您发现有关我们的网站或服务提供的任何信息丢失、被盗或未经许可使用，请立即通过 compass-service@gitee.com 通知我们。
 
-We process your personal data with strict confidentiality in accordance with applicable law. However, we shall disclose any personal or other data you provide us in compliance with a legal obligation or in order to correctly deliver our Services or perform other obligations in accordance with our website terms or professional terms of engagement, or in the event of a corporate operation involving investment, merger or sale.
+## 数据转移/披露
 
-Except as indicated, we do not reveal any of your data unless it is necessary for the performance of our services, or to our professional suppliers who provide us their services (email, storage, etc.).
+我们根据适用法律严格保密处理您的个人数据。但是，我们将披露您提供给我们的任何个人或其他数据，以遵守法律义务或正确地提供我们的服务或根据我们网站条款或专业合同的其他义务履行，或在涉及投资、合并或出售的企业操作中。
 
-We inform you that we use the following international third-party services to provide our Services:
+除非另有说明，否则我们不会透露任何您的数据，除非这是我们服务执行所必需的，或是向为我们提供服务的专业供应商（电子邮件、存储等）。
 
-- Google Inc (Google Apps, Google Analytics): <https://policies.google.com/privacy?hl=en-US>
-- Baidu, Inc. (Baidu Statistics): <https://tongji.baidu.com/web/help/article?id=330&type=0>
-- Sensors Data (Sensors Analytic): <https://www.sensorsdata.cn/compliance/law.html>
+我们通知您，我们使用以下国际第三方服务来提供我们的服务：
 
-We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+- Google 公司（Google Apps、Google Analytics）：<https://policies.google.com/privacy?hl=en-US>
+- 百度公司（百度统计）：<https://tongji.baidu.com/web/help/article?id=330&type=0>
+- 神策数据（神策分析）：<https://www.sensorsdata.cn/compliance/law.html>
 
-## RETENTION OF YOUR PERSONAL INFORMATION
+我们要求所有第三方尊重您的个人数据的安全性，并根据法律处理它。我们不允许我们的第三方服务提供商将您的个人数据用于他们自己的目的，并仅允许他们根据我们的指示为指定的目的处理您的个人数据。
 
-We generally keep personal information only for as long as required to fulfill the purposes for which it was collected. However, in some circumstances, we may retain personal information for other periods of time, for instance where we are required to do so in accordance with legal, tax and accounting requirements, or if required to do so by a legal process, legal authority, or other governmental entity having authority to make the request, for so long as required. In specific circumstances, we may also retain your personal information for longer periods of time corresponding to a statute of limitation, so that we have an accurate record of your dealings with us in the event of any complaints or challenges.
+## 您个人信息的保留
 
-## YOUR RIGHTS
+通常情况下，我们仅保留个人信息，直到实现其收集的目的为止。但是，在某些情况下，我们可能会保留个人信息的其他时期，例如，我们必须根据法律、税务和会计要求保留个人信息，或者如果法律程序、法律权力或其他政府实体有权提出请求，我们必须这样做，直到所要求的时期。在特定情况下，我们还可能保留您的个人信息，以对应诉讼时效，以便在出现任何投诉或挑战时，我们拥有与您的交易记录的准确记录。
 
-Access and Amendment. If you have registered with us and created a OSS Compass  ID profile or an OSS Compass Account wish to access or update certain personal information contained therein, you may do so online by visiting the “My Profile” or “My Account” settings in your respective account or by visiting <https://compass.gitee.com>. If you have any questions about our practices or this Privacy Policy, please contact us at compass-service@gitee.com.
+## 您的权利
 
-## CHANGES TO THE PRIVACY POLICY
+访问和修改。如果您已经在我们注册并创建了一个 开源指南针 ID 或 开源指南针 账户，希望访问或更新其中包含的某些个人信息，您可以在线通过访问您各自的账户中的“我的资料”或“我的帐号”设置或访问 <https://compass.gitee.com> 来执行此操作。如果您对我们的做法或本隐私政策有任何问题，请通过 compass-service@gitee.com 联系我们。
 
-This Privacy Policy was last updated on November 03, 2022. If we adjust our privacy policies and procedures, we will post those changes on this page and/or continue to provide access to a copy of the prior version. If we make any changes to this Privacy Policy that materially change how we treat your personal information, we will endeavor to provide you with reasonable notice of such changes, such as via prominent notice on our Sites or to your email address of record, and where required by law, we will obtain your consent or give you the opportunity to opt out of such changes.
+## 隐私政策的更改
+
+此隐私政策最近更新于 2022 年 11 月 03 日。如果我们调整了我们的隐私政策和程序，我们将在此页面上发布这些更改和/或继续提供对先前版本的副本的访问。如果我们对此隐私政策进行任何实质性更改，以更改我们处理您的个人信息的方式，我们将尽力向您提供合理的通知，例如通过在我们的网站上显著通知或向您的电子邮件地址提供通知，如果法律要求，我们将获得您的同意或为您提供选择退出此类更改的机会。
