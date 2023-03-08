@@ -1,27 +1,27 @@
-# How to Contribute
+# 如何参与贡献
 
-## Who can contribute?
+## 谁可以贡献？
 
-Anyone can contribute to OSS Compass Community!
+任何人都可以为 OSS Compass 社区做出贡献！
 
-## What can I contribute?
+## 我可以贡献什么？
 
-We focus on two main areas: creation of metrics model of opensource community ecosystem evaluation system , and implementation of Compass service. So we warmly welcome contributions in any way in these two areas.  
+我们专注于两个主要领域：创建开源生态评估体系的度量模型，以及提供 Compass SaaS 服务。所以我们热烈欢迎在这两个领域的任何方式的贡献。
 
-## How can I contribute?
+## 我怎样才能做出贡献？
 
-### Metrics Model
+### 衡量标准模型
 
-When you have a new idea or suggestions for the existed metrics model, you can start the contribution from an [issue](https://github.com/oss-compass/community/issues/new?assignees=eyehwan%2C+normal-coder%2C+wangliang-cs&labels=Metrics+Model+Lab&template=new-metrics-model-idea.md&title=%5BMetrics+Model+Lab%5D), of course you can talk with us through [slack](https://compass.gitee.com/docs/community/slack/) or [wechat](https://compass.gitee.com/docs/community/wechat/).
+当你对现有的度量模型有新的想法或建议时，你可以从 [Issue](https://github.com/oss-compass/community/issues/new?assignees=eyehwan%2C+normal-coder%2C+wangliang-cs&labels=Metrics+Model+Lab&template=new-metrics-model-idea.md&title=%5BMetrics+Model+Lab%5D) 开始贡献，当然你可以通过 [Slack](https://compass.gitee.com/docs/community/slack/) 或[微信交流群](https://compass.gitee.com/docs/community/wechat/) 与我们交谈以下内容：
 
-- Metrics Model Definition. 
-- Metrics Model Implementation.
+- 度量模型的定义
+- 度量模型的实施
 
-### Compass SaaS platform
+### Compass SaaS 平台
 
-You can also work together with us in the following areas related to [Compass SaaS](https://oss-compass.org/). The contribution can start from a communication from [slack](https://compass.gitee.com/docs/community/slack/) or [wechat](https://compass.gitee.com/docs/community/wechat/).
+你也可以在以下与 [Compass SaaS](https://oss-compass.org/) 相关的领域与我们一起工作。贡献可以从 [Slack](https://compass.gitee.com/docs/community/slack/) 或[微信交流群](https://compass.gitee.com/docs/community/wechat/)的沟通开始。
 
-- Compass user experiences design and improment. 
-- Compass front-end design and development.
-- Compass back-end design and development. 
-- Compass infra design and maintainance. 
+- Compass 的用户体验设计和印象
+- Compass 前端设计和开发
+- Compass 后端设计和开发
+- 指南针的信息设计和维护

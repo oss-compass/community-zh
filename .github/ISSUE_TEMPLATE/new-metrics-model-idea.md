@@ -1,37 +1,36 @@
 ---
-name: New Metrics Model Idea
-about: Suggesting a new metrics models idea.
+name: 新度量模型的想法
+about: 提出一个新的度量模型想法。
 title: "[Metrics Medel Lab]"
 labels: Metrics Model Lab
 assignees: eyehwan, normal-coder, wangliang-cs
 
 ---
 
-<!-- Thank you for sharing your metric model idea with the Metrics Model Working Group! -->
+<!-- 感谢你与评估模型工作组分享你的评估模型的想法！-->
 
-<!-- If it is an idea coming from CHAOSS metrics-model working group(https://github.com/chaoss/wg-metrics-models), you can attach metrics-model definition link here directly. Because we two communities have already setup a soomth collaboration process together. ! -->
+<!-- 如果是来自 CHAOSS 度量模型工作组（https://github.com/chaoss/wg-metrics-models）的想法，你可以直接在这里附上度量模型的定义链接。目前两个社区已经建立了一个良好的合作过程。! -->
 
-# Metric Model Title
-<!-- Title of the Metric Model -->
+# 评估模型名称
+<!-- 计量模型的标题 -->
 
 # Why it Matters
-<!-- Provide text to explain to a reader why they should care about the metrics model. This description should be 1-2 sentences. -->
+<!-- 提供文字，向读者解释为什么他们应该关心这个指标模型。这个描述应该是 1-2 句话。 -->
 
 # User Stories
-<!-- Provide text to the different types of users of this metrics model. This could include various roles including OSPO members, community managers, open source software users, and volunteer contributors. This should be in the form of a bulleted list for each of the provided user stories. -->
+<!-- 为这个度量模型的不同类型的用户提供文本。这可能包括各种角色，包括 OSPO 成员、社区经理、开源软件用户和志愿贡献者。这应该是为每一个提供的用户故事提供一个列举式清单的形式。 -->
 
-# Metics in the Model
+# 模型中的度量指标
 <!--
-* Metric 1 (Link to metric on the CHAOSS website if applicable, brief description of the metric, and the suggested timeframe associated with data collection if applicable)
-* Metric 2 (Link to metric on the CHAOSS website if applicable, brief description of the metric, and the suggested timeframe associated with data collection if applicable)
-* And so on
+* 度量标准 1（如果适用，可以链接到 CHAOSS 网站上的度量标准，对度量标准的简要描述，建议与数据收集相关的时间框架）。
+* 度量标准 2（如果适用，可以链接到 CHAOSS 网站上的度量标准，对度量标准的简要描述，建议与数据收集有关的时间框架）。
+* 以此类推
 -->
 
-# References
+# 参考文献
 
-<!-- if this model has some references, like papers, articles etc, you can add links here.  
--->
+<!-- 如果这个模型有一些参考资料，如论文、文章等，你可以在这里添加链接。 -->
 
-# Projects to verify this model
-<!-- we have a list of open source projects classified by multiple technical fieds used to verify a new metrics-model, you can select a group of projects here(link would be coming soon). If projects we provided can not meet model's verify requirement, e.g. model is specific for a technical field, you can pop your requirement here also. 
--->
+# 验证这个模型的项目
+
+<!-- 我们有一个按多个技术领域分类的开源项目列表，用于验证一个新的度量模型，你可以在这里选择一组项目（链接将很快出现）。如果我们提供的项目不能满足模型的验证要求，例如，模型是针对某个技术领域的，你也可以在这里提出你的要求。-->
