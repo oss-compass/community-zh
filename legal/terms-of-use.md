@@ -1,77 +1,77 @@
 ---
-title: OSS Compass 服务条款
+title: 开源指南针使用条款
 slug: /terms-of-use
 tags:
   - 使用条款
-description: 法律信息和声明
+description: 法律信息和注意事项
 ---
 
-## 接受服务条款
+## 接受条款
 
-这些法律声明和使用条款管理访问和使用网站 <https://compass.gitee.com>（以下简称：网站）和在此提供的服务。 The term “You/User” refers to any natural or legal person who accesses or has accessed the Website. By accessing or using the Website in any form and in particular, by sending your data in a contact or registration form, you agree to be bound by these Terms of Use. If you do not accept any term of these Terms of Use, then you may not access the Website or use our services.
+以下法律声明和使用条款（以下简称“使用条款”）管理您对 [https://compass.gitee.com](https://compass.gitee.com)（以下简称“本网站”或“开源指南针”）的访问和使用，以及在本网站上提供的服务。“您/用户”一词指任何访问或曾经访问本网站的自然人或法人。通过以任何形式访问或使用本网站，特别是通过在联系或注册表单中发送您的数据，即表示您同意受这些使用条款的约束。如果您不接受这些使用条款的任何条款，则您可能无法访问本网站或使用本网站的服务。
 
-Shenzhen AOSI Network Technology Co.ltd reserves the right to update and modify the TOU at any time without notice to you. The most current version of the TOU can be reviewed by clicking on the "Terms of Use" hyperlink located at the bottom of our webpages(<https://compass.gitee.com>). By using the Website after a new version of the TOU has been posted, you agree to the terms of such new version.
+深圳市奥思网络科技有限公司保留随时更新和修改使用条款的权利，无需事先通知您。您可以通过单击本网站网页底部的“使用条款”超链接来查看使用条款的最新版本（[https://compass.gitee.com](https://compass.gitee.com)）。在发布新版本的使用条款后使用本网站，即表示您同意遵守该新版本的条款。
 
-## ABOUT US
+## 关于本网站
 
-The owner of this website is Shenzhen AOSI Network Technology Co.ltd (the "Company" or "we/us"), with registered office at No. 136, Zhongkang Road, Futian District, Shenzhen (19th Floor, Building 4, Shenzhen New Generation Industrial Park). The e-mail address which the company may be contacted is: compass-service@gitee.com.
+本网站的所有者是深圳市奥思网络科技有限公司（以下简称“公司”或“本网站”），注册办公地址位于深圳市福田区中康路 136 号深圳新一代产业园 4 栋 19 楼。公司的电子邮件地址为：compass-service@gitee.com。
 
-## DESCRIPTION OF SERVICES
+## 服务描述
 
-Through its network of Web properties, OSS Compass provides you with access to a variety of resources, including OSS Compass Metric Analyze, OSS Compass Mertric Model (collectively "Services"). The Services, including any updates, enhancements, new features, and/or the addition of any new Web properties, are subject to these TOU.
+通过其网络资源，开源指南针为您提供访问各种资源的机会，包括开源指南针评估分析、开源指南针评估模型（统称“服务”）。服务，包括任何更新、增强、新功能和/或任何新的网站资源的添加，均受这些使用条款的约束。
 
-Any data that You access or obtain via the OSS Compass Service (the "OSS Compass  Mertric Analyze Data ") is made available pursuant to the OSS Compass Privacy Policy, available at <https://compass.gitee.com/docs/privacy-policy> . You shall not use any OSS Compass  Metric Analyze Data in any manner that could be considered a violation of the Privacy Policy. You shall not use any OSS Compass  Mertric Analyze Data for purposes of marketing to individual Project contributors. You shall not create or maintain separate lists of individual Project contributors consisting of all or a part of the OSS Compass  Mertric Analyze Data.
+您通过开源指南针服务访问或获取的任何数据（以下简称“开源指南针评估分析数据”）均按照开源指南针隐私政策提供，该政策可在 [`https://compass.gitee.com/docs/privacy-policy`](https://compass.gitee.com/docs/privacy-policy) 查看。您不得以任何可能被视为违反隐私政策的方式使用任何开源指南针评估分析数据。您不得将任何开源指南针评估分析数据用于市场营销到单个项目贡献者。您不得创建或维护由开源指南针评估分析数据的全部或部分组成的单个项目贡献者列表。
 
-If You use the OSS Compass Service to update information about third party participants in a Project, then You shall not submit any information that is false, inaccurate or misleading.
+如果您使用开源指南针服务更新有关项目中第三方参与者的信息，则不得提交任何虚假、不准确或误导性的信息。
 
-## NO UNLAWFUL OR PROHIBITED USE
+## 不可非法或禁止使用
 
-As a user you are accepting, when visiting and using the website, all the conditions of use established here, without prejudice to the application of the corresponding obligatory legal requirements, if appropriate. The website pages provide a wide variety of information, services and data. Users agree to use the Website correctly and in accordance with these terms and applicable law.
+作为用户，您在访问和使用本网站时，应接受这里规定的所有使用条件，但不影响适用相应的强制法律要求（如适用）。本网站提供各种信息、服务和数据。用户同意正确地使用本网站，并遵守这些条款和适用法律。
 
-You may not use the Website for any illegal or prohibited purpose, and you may not use the Website and its contents to infringe the legitimate rights and interests of other organizations or individuals. You may not use any form of device, program, algorithm or any identical or similar manual process, including spider, robot, deep-link, page-scrape, to access, obtain, copy or monitor any part of the Website or any content, and may not access, obtain or copy any materials, documents or information on the Website by any means other than those provided by the Website.
+您不得将本网站用于任何非法或禁止目的，也不得使用本网站及其内容侵犯其他组织或个人的合法权益。您不得使用任何形式的设备、程序、算法或任何相同或类似的手动过程，包括蜘蛛、机器人、深度链接、页面抓取，以访问、获取、复制或监控本网站的任何部分或任何内容，并且不得通过任何非本网站提供的手段访问、获取或复制本网站上的任何材料、文件或信息。
 
-You may not attempt to gain unauthorized access to any content of the Website or use any services of the Website by trespassing, cracking passwords or any other illegal means. You may not track, reverse look up, crack, or decipher any customer's information on the Website, including but not limited to any accounts on the Website that are not owned by you. You may not violate any network security mechanism or authentication measures of the Website or linked to the Website, and you may not detect, scan or test any network weakness on the Website or connected to the Website, and you may not launch any form of network attack on the Website.
+您不得试图通过非法手段侵入本网站的任何内容或使用本网站的任何服务。您不得跟踪、反向查找、破解或解密本网站上任何客户的信息，包括但不限于非您所有的本网站上的任何帐户。您不得违反本网站或连接到本网站的任何网络安全机制或身份验证措施，不得发现、扫描或测试本网站或连接到本网站的任何网络弱点，也不得对本网站发起任何形式的网络攻击。
 
-You agree not to use any device, software or program that interferes or attempts to interfere with the proper operation of the Website or any transactions conducted on the Website, or interfere or attempt to interfere with the use of the Website by others. You must not take any action to store an unreasonably or disproportionately large amount of data on the Website infrastructure, systems or networks, or on systems or networks linked to the Website. You may not attempt to copy or change, alter, or otherwise attempt to modify the Services or these TOU.
+您同意不使用任何干扰或试图干扰本网站正常运行或进行的任何交易的设备、软件或程序，或干扰或试图干扰其他人使用本网站。您不得采取任何行动，在本网站基础设施、系统或网络或连接到本网站的系统或网络上存储过多不合理或不成比例的数据。您不得尝试复制、更改、修改服务或这些使用条款。
 
-## PUBLICATION
+## 信息发布
 
-The results of the reports you request analysis through the Website are not private, and can be published on the public dashboard, and may be removed or updated by us at any time and from time to time. You will not be identified as the person or entity who requested this analysis. You may share this data reports with third parties, but you are responsible for this sharing.
+您通过网站请求的分析报告结果不是私有的，可以公开发布在网站公开页面上，且本网站可以随时修改或删除这些报告。您不会被标识为请求此分析的人或实体。您可以与第三方共享这些数据报告，但您对此共享负责。
 
-## NO WARRANTIES
+## 免责声明
 
-Services are a work in progress provided for free, and are based on publicly available data from a variety of sources that may not complete, accurate or up-to-date. The website and its contents are provided on an "AS IS" basis. Accordingly, we make no warranties as to the accuracy and completeness of the analytics reports requested through the Services, the availability, continuity and accessibility of the website and its Contents and Services, nor offer any other warranty in respect of the results of the analytics and other Services.
+服务尚在开发中，免费提供，所基于的各种公开数据源的数据可能不完整、不准确或不及时。网站及其内容按“现状”提供。因此，本网站不就通过服务请求的分析报告的准确性和完整性，网站及其内容和服务的可用性、持续性和可及性，或对分析和其他服务结果做出任何保证或承诺。
 
-## CONTENT
+## 内容声明
 
-All content included in or made available through the Services, such as text, graphics, logos, icons, images, sounds, music, digital downloads, data compilation, software, and documents, is the exclusive property of Company or its content suppliers and is protected by the various applicable trade dress, copyright, trademark, patent, and other intellectual property and unfair competition laws in the People's Republic of China and internationally (collectively, "Content"). All rights not expressly granted to you in this TOU are reserved and retained by Company or its licensors, suppliers, publishers, rightsholders, or other content providers.
+服务中包含或通过服务提供的所有内容，例如文本、图形、LOGO、图标、图像、声音、音乐、数字下载、数据汇编、软件和文档，均为公司或其内容供应商的专有财产，并受中华人民共和国和国际适用的各种工业产权、著作权、商标权、专利权和其他知识产权和不正当竞争法的保护 (统称“内容”)。本服务条款未明示授予您的所有权利均由公司或其许可方、供应商、出版方、权利持有人或其他内容提供方保留。
 
-## LIMITATION OF LIABILITY
+## 责任限制
 
-In no event shall xxx and/or its respective suppliers be liable to the other party or any other person for any special, indirect, incidental or consequential damages, including but not limited to loss or profit or goodwill, for any matter arising out of or relating to this Agreement or its subject matter, whether such liability is asserted on the basis of contract, tort or otherwise.
+在任何情况下，xxx 及其各自的供应商不对其他方或任何其他人承担特殊、间接、偶然或后果性损害赔偿责任，包括但不限于损失利润或商誉，无论该责任是基于合同、侵权或其他任何原因而主张的，前述情形均与本协议或其标的物有关。
 
-You agree that, to the maximum extent permitted by applicable law, in no manner whatsoever will we be held liable by you for any use or disclosure by you of the results of the reports and other data analytics requested through the Services.
+您同意，在适用法律允许的最大限度内，本网站将不会由您因您使用或披露通过服务请求的报告和其他数据分析结果而对本网站承担任何责任。
 
-## MEMBER ACCOUNT, PASSWORD, AND SECURITY
+## 会员账号、密码和安全
 
-If any of the Services requires you to open an account, you must complete the registration process by providing us with current, complete, and accurate information as prompted by the applicable registration form. You also will choose a password and a username. You are entirely responsible for maintaining the confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to notify us immediately of any unauthorized use of your account or any other breach of security. We will not be liable for any loss that you may incur as a result of someone else using your password or account, either with or without your knowledge. However, you could be held liable for losses incurred by us or another party due to someone else using your account or password. You may not use anyone else's account at any time, without the permission of the account holder.
+如果任何服务要求您开设账号，则您必须通过提供相关注册表格提示的当前、完整和准确信息完成注册流程。您还将选择密码和用户名。您完全负责维护您的密码和账号的机密性。此外，您完全负责在您的账号下发生的任何和所有活动。您同意立即通知本网站未授权使用您的账号或任何其他安全违反情况。本网站不对其他人使用您的密码或账号 (无论您知不知情) 造成的任何损失承担责任。但是，如果其他人使用您的账号或密码造成本网站或其他方的损失，则您可能承担责任。您不得在任何时间使用其他人的账号，未经账号持有人允许。
 
-## INTELLECTUAL PROPERTY
+## 知识产权
 
-The intellectual and industrial property rights in all the texts, images, and ways and methods of presenting and laying out its website pages belong to the Company or its licensors, and these elements are protected by applicable national and international law.
+网站页面所有文本、图像以及呈现和布局方式和方法的知识产权和工业产权均属于本网站所属实体或其许可方，这些要素受适用国家和国际法的保护。
 
-All rights reserved. You may not reproduce, distribute, distribute or use of the whole or part of the contents of the OSS Compass website (other than for internal browsing) without our express written consent.
+版权所有。未经本网站明确书面同意，您不得复制、发布、发布或使用开源指南针网站全部或部分内容 (仅内部浏览除外)。
 
-## DATA PROTECTION
+## 数据保护
 
-In accordance with the provisions of applicable law, we inform the Users of our website that the personal data collected by the company by means of the electronic forms forming part of our website and in communications with the Company will be processed by us in accordance with our Privacy Policy which is incorporated to these terms by reference, and which is accepted by the User. Please read this carefully.
+根据适用法律的规定，本网站通知本网站用户，本网站通过网站电子表单和与公司的通信收集的个人数据将根据本网站的隐私政策进行处理，隐私政策通过引用纳入这些条款中，并由用户接受。请仔细阅读。
 
-## LINK TO THIRD PARTY WEBSITES
+## 链接到第三方网站
 
-The Website may provide links to other websites or resources over which Company does not have control ("External Web Sites"). Such links do not constitute an endorsement by us of those External Web Sites. You acknowledge that we are providing these links to you only as a convenience, and further agree that we will not be held responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+本网站可能提供链接到公司无法控制的其他网站或资源 (“外部网站”)。这样的链接不代表本网站认可这些外部网站。您承认本网站仅向您提供这些链接以便利您，并进一步同意本网站不对这些外部网站的内容承担责任。您使用外部网站受该外部网站使用条款和隐私政策的限制。
 
-## LEGAL ACTIONS AND APPLICABLE LEGISLATION AND JURISDICTION
+## 法律行动、适用立法和管辖权
 
-Company reserves the right to bring appropriate actions in civil or criminal law as it may consider necessary in cases of unrightfully use of its website and its contents or breach of these conditions.
+公司保留根据需要在不正当使用网站和内容或违反这些条件的情况下提起民事或刑事法律适当行动的权利。
 
-The relationship between the User and Company shall be governed by current Chinese law, and the courts sitting in Futian District of Shenzhen, China. shall be competent to decide any controversy that may arise between the User and the Company.
+用户与公司之间的关系将适用现行中国法律，中国广东省深圳市福田区人民法院对用户与公司之间可能产生的任何争议具有管辖权。
