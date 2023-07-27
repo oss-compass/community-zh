@@ -100,8 +100,8 @@
 理事会需要建立和维护本社区行为准则。
 
 ### 九、知识产权策略
-- 1. 本社区所有文档使用[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)。
-- 2. 本社区所有软件代码仓使用[GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)。
+- 1.本社区所有文档使用[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)。
+- 2.本社区所有软件代码仓使用[GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)。
 
 ### 十、章程修订策略
 本章程修订需要获得理事会超过80%成员表决通过后，方可生效。 
