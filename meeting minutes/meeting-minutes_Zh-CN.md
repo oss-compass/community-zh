@@ -1,3 +1,26 @@
+# 2023-07-27开源指南针会议纪要
+
+## 时间
+北京时间2023年7月27日下午14:15~14:33
+
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[黄超群](https://github.com/nanzm)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[钟峰](https://github.com/poorfish)、[龙文选](https://github.com/hncslwx)、[齐国强](https://github.com/guoqiangqi)、杨文昊、邱睿桥、[周冉](https://github.com/JuliaZhou2022)
+
+## 主题——Compass Lab前后端设计进展、官网设计及运营事项讨论
+
+### 1. 前端
+- （1）官网链接社交媒体（微信公众号、Twitter）入口需要提供，**AP：峰哥在Project里创建Task**
+- （2）Lab静态页面进行中，图表嵌入任务（图表作为前端接口在后端调用）进行中，**AP：超群与后端同步在两周内（8月15号前）完成**
+### 2. 后端
+- （1）指标拆分方案已提交，两周内可以完成拆分，**AP：升保按照方案拆一两个指标出来，请睿桥和华添一起看看**
+- （2）开发者贡献价值分析
+  - 如何识别社区贡献者的价值，**AP：文昊分享相关学术研究，在群里与大家讨论**
+- （3）后端已重构，前端后续只需要通过接口调用后端
+- （4）Lab接口两周内可完成。
+### 3. 运营
+- （1）会议纪要与会人加GithubID链接，**AP：周冉添加**
+- （2）会议纪要链接加到官网上，**AP：前端实现**
+
 # 2023-07-25开源指南针会议纪要
 
 ## 时间
