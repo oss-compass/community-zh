@@ -12,7 +12,7 @@
 
 ### 2. 社区组织架构概览
 
-[https://github.com/JuliaZhou2022/community-zh/blob/main/governance/Charter_zh-CN.md](https://github.com/JuliaZhou2022/community-zh/blob/main/governance/OSS-Compass_governance_structure.png)
+![avatar](https://github.com/JuliaZhou2022/community-zh/blob/main/governance/OSS-Compass_governance_structure.png)
 
 ### 3. 会员资格
 本社区由白金会员、社区会员、伙伴会员、以及广大社区贡献者和用户构成。 
