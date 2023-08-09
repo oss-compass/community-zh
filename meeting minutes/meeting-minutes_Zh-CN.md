@@ -1,3 +1,32 @@
+# 2023-08-08开源指南针会议纪要
+
+## 时间
+北京时间2023年8月8日下午14:15~14:43
+
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[黄超群](https://github.com/nanzm)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[钟峰](https://github.com/poorfish)、[齐国强](https://github.com/guoqiangqi)、[杨文昊](https://yangwenhao3906.github.io/)、[邱睿桥](https://dune0310421.github.io/)、[周冉](https://github.com/JuliaZhou2022)
+
+## 主题——Compass Lab前后端开发进展、官网设计、运营事项讨论
+
+### 官网
+1. 更新官网社区成员信息，添加文昊、睿桥，**AP：超群操作**。
+2. 联系我们页面错误已修复
+3. 动态一栏下面需要把微信公众号发布的内容更新上去，**AP：兴友操作**。
+
+### Lab前端
+1. 我的模型页面这周完成，数据集不需要限定行业，权重没有默认值，阈值有默认值带说明，**AP：超群创建任务尽快完成修改和遗留任务，下周二demo**。
+2. Lab页面显示创建我的模型入口，**AP：超群跟峰哥对一下前端设计**。
+
+### Lab后端
+1. 明天指标拆分任务可全部完成
+2. 合规审核差不多对完，等指标拆完后调模型页面，**AP：华添尽快开始模型页面联调工作**。
+
+### 运营
+Lab需要有用户使用条款给用户在使用Lab前进行签署，**AP：周冉准备这个条款，下周完成，可问盛翔要模板，请峰哥设计这个条款的展示方式**。
+
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-08-03开源指南针会议纪要
 
 ## 时间
