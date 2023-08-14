@@ -1,3 +1,32 @@
+# 2023-08-10开源指南针会议纪要
+
+## 时间
+北京时间2023年8月10日下午14:15~14:57
+
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[黄超群](https://github.com/nanzm)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[钟峰](https://github.com/poorfish)、[齐国强](https://github.com/guoqiangqi)、[杨文昊](https://yangwenhao3906.github.io/)、[邱睿桥](https://dune0310421.github.io/)、[周冉](https://github.com/JuliaZhou2022)
+
+## 主题——Compass Lab前后端开发进展、官网设计讨论
+
+### Lab前端
+1. Lab还在联调评论区，**AP：华添8月15号需要完成所有联调工作，保证Lab能够demo**。
+2. 邮件邀请加入Lab，点确认后会跳出签署条款页面，然后会进入我的模型页面，**AP：周冉下周二前确认英文用户条款OK，届时兴友上线该条款**。
+3. 评论区缩进只有两个层级。
+4. Lab图表部分，**AP：需要升保、华添这边给接口**。
+
+### Lab后端
+1. 指标index一样的进行了修改，加了前缀。
+2. 改指标index后所有项目需要重新用模型跑一遍，以便重新计算中位数等其他数据，**AP：华添先完成目前工作，等正式上线后再重新跑数据**。
+3. 组织活跃度字段与层级都已修改，数据结构发生了改变，也需要重新获取数据，**AP：升保与华添对一下**。
+4. 指标拆分后代码基本没问题，可以合并，**AP：晖哥合并代码**。
+
+### 官网
+1.  Lab里面的用户条款会在新建模型和邮件邀请加入模型协作时以勾选的形式显示。
+2.  首页热门领域这一块内容要换掉，可展示人工挑选出来的热门领域和相关项目，可选择大语言模型工具类、框架类等相关项目，后续要支持自动更改，**AP：峰哥重新设计界面展示效果**。
+
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-08-08开源指南针会议纪要
 
 ## 时间
