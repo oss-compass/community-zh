@@ -1,3 +1,27 @@
+# 2023-08-17开源指南针会议纪要
+## 时间
+北京时间2023年8月17日下午14:15~14:45
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[黄超群](https://github.com/nanzm)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[钟峰](https://github.com/poorfish)、[齐国强](https://github.com/guoqiangqi)、[杨文昊](https://yangwenhao3906.github.io/)、[邱睿桥](https://dune0310421.github.io/)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass Lab前后端开发进展、官网设计、运营事项讨论
+### Lab前端
+1. Lab本周Demo基本逻辑流畅，下周三正式发布，创建模型失败问题需要解决。**AP：超群查看原因并调整。**
+2. 我的模型页面，已显示上次分析的时间，每次触发分析，状态都会更新，正在分析时，触发分析按钮不可点击。
+3. 打开Lab页面，会显示某个模型下可以公开显示的项目，同时可以筛选数据集，点击项目可进入项目Dashboard页面。
+4. Lab页面公开的项目需要显示版本，允许用户自由选择公开哪一个。**AP：峰哥更新界面设计。**
+5. Lab页面Discuss按钮直接链接到页面显示的第一个项目的评论区。
+6. 大语言模型二级分类还没有提交到总目录中。**AP：兴友跟华添核对。**
+### Lab后端
+1. 项目Dashboard页面每个指标下面的参考性指标先隐藏，后续再做拆分后展示，且命名需要修改。**AP：升保23号之前先隐藏未拆分的参考性指标，并尽量在Lab上多显示一些细化指标。**
+2. Lab后端修Bug中，模型重构工作暂停，等指标继续原子化后再继续进行。
+### 官网
+热门领域设计已完成。**AP：下周三兴友更新前端。**
+### 运营事项
+1. 8月23号直播物料已出完。**AP：周冉跟峰哥对接。**
+2. Compass定制T恤稍后发给大家。**AP：周冉处理此事。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-08-15开源指南针会议纪要
 
 ## 时间
