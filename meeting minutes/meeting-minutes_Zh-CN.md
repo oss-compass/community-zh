@@ -1,3 +1,25 @@
+# 2023-08-24开源指南针会议纪要
+## 时间
+北京时间2023年8月24日下午14:15~14:35
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[黄超群](https://github.com/nanzm)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[杨文昊](https://yangwenhao3906.github.io/)、[邱睿桥](https://dune0310421.github.io/)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass Lab前后端开发进展、官网设计及运营事件讨论
+### Lab前后端
+1. Lab前端基本OK，在修复数据集错乱等Bug，登录错误需要修复。**AP：华添修复。**
+2. Lab后端功能基本OK，在做旧模型重构以及优化指标分析时间。
+3. 重新定义token进行事件收集也在进行中。
+4. Lab前端内容国际化进行中。
+### 官网设计
+1. 官网热门项目区域不支持项目及Gitee或Github图标显示，需要修复。**AP：兴友与华添沟通后处理。**
+2. 官网最近热点区域需要手动部署内容，建议后台放在仓库，自动部署。**AP：兴友与华添确认。**
+3. 官网动态页面尽快补充内容。**AP：周冉尽快提供相关内容给前端。**
+4. 官网腾讯会议链接下面加仓库会议纪要链接。**AP：兴友添加。**
+### 运营
+1. 8月23号下午社区Board第一次会议召开，各位Board认可Compass Lab的价值，并对它的发展方向提出了很多建议。**AP：周冉尽快发出会议纪要，大家一起看如何落地相关建议。**
+2. 8月23号晚上社区举行了直播活动，进行了Compass Lab演示，后续要看如何推广Lab，促进更多开源社区使用。**AP：周冉尽快补充运营规划相关内容，与相关Board一起讨论推广计划。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-08-22开源指南针会议纪要
 ## 时间
 北京时间2023年8月22日下午14:15~15:00
