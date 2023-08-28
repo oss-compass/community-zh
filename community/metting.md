@@ -22,3 +22,9 @@ description: 参加 OSS-Compass 社区研讨和交流活动
 <https://meeting.tencent.com/dm/AE8RoTY40SfS>
 
 :::
+
+:::info 查看 OSS-Compass 社区研讨周会会议纪要
+
+<https://github.com/oss-compass/community-zh/blob/main/meeting%20minutes/meeting-minutes_Zh-CN.md>
+
+:::
