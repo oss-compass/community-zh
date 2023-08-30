@@ -1,3 +1,22 @@
+# 2023-08-29开源指南针会议纪要
+## 时间
+北京时间2023年8月29日下午14:15~14:51
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[钟峰](https://github.com/poorfish)、[黄超群](https://github.com/nanzm)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[齐国强](https://github.com/guoqiangqi)、[杨文昊](https://yangwenhao3906.github.io/)、[邱睿桥](https://dune0310421.github.io/)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass Lab前后端开发进展、官网设计讨论
+### 官网
+1. 热门项目区域Gitee图标已经支持，Github图标需要继续添加。**AP：华添与超群添加。**
+2. 周活跃榜单显示形式已经设计好。**AP：华添与超群按设计进行开发。**
+3. 官网首页开源生态评估体系图可放在评估模型页面，首页可考虑重新设计图片展示Compass能够提供的SaaS服务内容。**AP：超群先把开源生态评估体系图移到评估模型页面，峰哥后续重新设计。**
+### Lab前后端
+1. 优化了一些指标和指标分析时间，修复了一些界面显示bug。
+2. 重构报告页接口代码后，再支持图表嵌入。**AP：华添尽快完成重构，再进行图表嵌入支持工作。**
+3. 每个指标图表后续要展示详细注解，比如贡献者数量指标可展示具体哪些贡献值、组织信息等等，需要在Gitee指数替换工作开始之前进行展示。**AP：峰哥考虑展示形式。**
+4. 报告页数据集公开，需要放在一个仓库，通过API接入。**AP：华添进行相关操作。**
+5. Compass Lab已发布，近期需要收集新建模型数量、新建看板数量、用户数量等数据进行观测。**AP：华添进行收集。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-08-24开源指南针会议纪要
 ## 时间
 北京时间2023年8月24日下午14:15~14:35
