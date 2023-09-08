@@ -1,3 +1,23 @@
+# 2023-09-07开源指南针会议纪要
+## 时间
+北京时间2023年9月7日下午14:15~15:05
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[龙文选](https://github.com/hncslwx)、[钟峰](https://github.com/poorfish)、[黄超群](https://github.com/nanzm)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[齐国强](https://github.com/guoqiangqi)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass Lab前后端开发进展、官网设计及运营事项讨论
+### Lab前后端
+1. 第一批获取事件的token测试正常。**AP：盛翔继续提供其他token给华添，优先处理详细化指标对应的token。**
+2. 详细化指标已经梳理完成。
+3. 详细化指标呈现方式：在报告页显示入口，点击后进入一个页面统一呈现社区变化趋势相关的所有指标的变化细节，而不是每个指标分别呈现细节。**AP：峰哥调整设计思路，下次会议再次呈现。**
+4. 图表嵌入功能已完成，需要提供入口给用户，允许用户选择格式。**AP：峰哥设计入口形式，可以加水印，盛翔、华添讨论对部分参数的显示优化。**
+### 官网
+1. 社区头像自定义相关的前后端工作已完成，盛翔建议：外围框线颜色再浅一些，网速慢的时候，GitHub、Gitee图标与社区头像不同步显示，这些后续可再优化。
+2. 探索页面项目分类需要整理。**AP：盛翔建Issue，优化探索页面的二级分类。**
+### 运营事项
+1. 晔晖最近在探索Compass发展大模型评估业务的途径，已进行了一些访谈，收集了一些需求。**AP：晔晖跟盛翔分享访谈内容。**
+2. 晔晖9月中旬会去欧洲开源峰会上讲Compass的价值，建议加上社区洞察报告。**AP：周冉跟晔晖一起完成社区洞察内容。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-08-31开源指南针会议纪要
 ## 时间
 北京时间2023年8月31日下午14:15~14:54
