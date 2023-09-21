@@ -1,3 +1,25 @@
+# 2023-09-21开源指南针会议纪要
+## 时间
+北京时间2023年9月21日下午14:15~14:24
+## 与会人
+[张盛翔](https://github.com/normal-coder)、[龙文选](https://github.com/hncslwx)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[黄超群](https://github.com/nanzm)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)、[杨文昊](https://yangwenhao3906.github.io/)、[邱睿桥](https://dune0310421.github.io/)
+## 主题——Compass前后端开发及运营事项讨论
+### 后端
+1. 因gitee海外带宽已满导致官网oss-compasss.org访问速度慢, 现已从华为云加了一个10M的带宽作为海外入口。
+2. 报告页的概览图表增加了下载与分享功能。
+3. 详细化指标：
+      - Issue、PR接口已加。
+      - GitHub贡献者列表已完成，Gitee的进行中。
+### 前端
+1. 官网动态页面增加了一些功能更新及新闻。
+2. 项目二级分类标签已完成添加。
+3. 图表下载与分享功能前端正在进行，明天完成后上灰度。
+     - **AP：兴友明天完成后，华添上灰度测试。**
+### 运营
+整理公众号已发布的中英文文案给前端上传官网，进行中。
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-09-12开源指南针会议纪要
 ## 时间
 北京时间2023年9月12日下午14:15~15:09
