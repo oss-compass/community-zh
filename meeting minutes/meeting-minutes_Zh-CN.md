@@ -18,6 +18,30 @@
    - **AP：升保尽快完成复核。**
 2. 针对详细指标页面呈现的客观数据给与特定社区改进建议一事需要尽快推进，以便在年底峰会上面呈现Compass的价值。
    - **AP：文昊尽快做洞察，尽快分享相关学术研究成果，后续根据研究成果再讨论技术落地方案。周冉与王晔晖确认目标社区。**
+# 2023-10-17开源指南针会议纪要
+## 时间
+北京时间2023年10月17日下午14:15~14:45
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[龙文选](https://github.com/hncslwx)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[黄超群](https://github.com/nanzm)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)、[齐国强](https://github.com/guoqiangqi)、[邱睿桥](https://dune0310421.github.io/)
+## 主题——Compass前后端开发、官网及运营事项讨论
+### 前后端
+1. 详细化指标前后端开发继续进行。
+2. Compass部署文档已完成测试，只剩邮箱邀请部分有问题，待修复后会在仓库公开该文档并交付给CHAOSS进行部署。
+    - **AP：升保尽量今天完成该文档的测试，并上传docs仓库。**
+3. 图表下载与分享自定义时间前后端完成，已上线。
+### 官网
+1. 首页Compass功能全景图设计，需要文字说明。
+    - **AP：周冉提供文字说明，晔晖进行审核后交给钟峰设计。**
+2. 动态页更新的内容需要设计展示方式，如分界线、标题加时间戳等。
+    - **AP：钟峰提供展示方式，前端根据更新的设计进行优化。**
+3. 基于Compass的学术研究成果如何展示在Compass社区：是跟Compass Lab合并，还是单独开辟一个Compass Research页面，钟峰建议前期内容不多的情况下先跟Lab合并。
+   - **AP：会后晔晖与盛翔再讨论，钟峰根据讨论结果设计展示方式。**
+### 运营
+1. CHAOSS正在准备部署Compass的SaaS服务，投资安排已到位。
+2. 工信部电子一所、深圳工信局等机构组织深圳1024程序员节，将联合Compass发布中国开源评估指数。
+3. 欧洲开源项目Open Review Toolkit想要集成Compass，希望改进Compass官网及SaaS服务的易用性。
+    - **AP：周冉尽快提交改进方案给晔晖。**
+4. Gitee指数替换，待详细化指标页面完成后进行。
 ## 看板跟踪
 https://github.com/orgs/oss-compass/projects/1
 
