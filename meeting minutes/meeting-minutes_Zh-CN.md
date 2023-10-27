@@ -1,3 +1,24 @@
+# 2023-10-24开源指南针会议纪要
+## 时间
+北京时间2023年10月24日下午14:15~14:20
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[黄超群](https://github.com/nanzm)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)、[齐国强](https://github.com/guoqiangqi)
+## 主题——Compass前后端开发、官网及运营事项进展
+### 前端
+暂无更新。
+### 后端
+详细化指标后端开发进行中，github的已完成，gitee的本周四完成。
+### 运营
+1. Compass替换Gitee指数事宜：
+    - **AP：晔晖与盛翔再单独讨论进展。**
+2. 学术成果落地Compass事宜：
+    - **AP：晔晖与盛翔尽快讨论具体方案。**
+### 官网
+1. 官网文字修改：
+    - **AP：周冉尽快提供文字调整方案。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+ 
 # 2023-10-19开源指南针会议纪要
 ## 时间
 北京时间2023年10月19日下午14:15~14:52
