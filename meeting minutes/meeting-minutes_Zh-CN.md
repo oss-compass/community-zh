@@ -1,3 +1,36 @@
+# 2023-10-26开源指南针会议纪要
+## 时间
+北京时间2023年10月26日下午14:15~15:05
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[龙文选](https://github.com/hncslwx)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[黄超群](https://github.com/nanzm)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[邱睿桥](https://dune0310421.github.io/)、[周冉](https://github.com/JuliaZhou2022)、[齐国强](https://github.com/guoqiangqi)
+## 主题——Compass前后端开发、官网及运营事项进展
+### 前端
+暂无更新。
+### 后端
+1. 详细化指标开发完成，目前在测试。
+    - **AP：华添提供接口，尽量下周完成。**
+2. 南大、北大合作token需要扩容。
+    - **AP：盛翔尽快处理。**
+### 运营
+1. 学术成果落地Compass的方案设计：
+    - **AP：晔晖与盛翔尽快确定方案。**
+### 官网
+1. 官网sitemap信息需要更新，以便搜索引擎抓取官网内容。
+    - **AP：华添、升保进行后端支持，兴友、超群提供前端支持。**
+2. 官网首页修改建议：
+   - slogan部分的文字按照“我是谁+为什么选择我们”的逻辑重新梳理，现在图标改为Compass logo演绎的动画和报告页图表美化版。
+     - **AP：周冉创建Issue，添加梳理好的文字，升保提供图表，峰哥重新设计图标、图像和展示方式。**
+   - slogan和图表下方，展示案例，包括与CHAOSS、南大、北大、部分社区等的合作内容，显示Compass的价值。
+     - **AP：周冉梳理明确要展示的内容，创建Issue，峰哥设计展示方式。**
+   - 导航栏加“文档”一栏，把部署文档、用户文档等内容放在这个页面。
+     - **AP：周冉创建Issue，晔晖、龙老师进行文档梳理以及内容补充。**
+   - 导航栏名称和顺序调整：（中文）文档>项目>Compass实验室>加入社区>动态>关于，（英文）Documentation>Projects>Compass Lab>Join Community>News>About
+     - **AP：周冉创建Issue。**
+   - 删除现有开源评估体系全景图，提供最新Compass全景图。
+     - **AP：周冉创建Issue，晔晖提供全景图。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-10-24开源指南针会议纪要
 ## 时间
 北京时间2023年10月24日下午14:15~14:20
