@@ -1,3 +1,30 @@
+# 2023-11-02开源指南针会议纪要
+## 时间
+北京时间2023年11月02日下午14:15~14:45
+## 与会人
+[张盛翔](https://github.com/normal-coder)、[龙文选](https://github.com/hncslwx)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[黄超群](https://github.com/nanzm)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)、[齐国强](https://github.com/guoqiangqi)、刘天栋-开源社
+## 主题——Compass前后端开发、官网及运营事项进展
+### 官网
+1. 导航栏调整方案完成，前端可进行修改。
+     - **AP：兴友修改前端。**
+2. 首页调整方案已出，暂时按方案进行，细节再讨论。
+     - **AP：兴友修改前端，周冉与峰哥再讨论细节修改。**
+### 前后端
+1. sitemap信息更新需尽快推进。
+     - **AP：华添尽快修改。**
+2. 对比分析页面弹窗前端已修改。
+### 运营
+1. 12月13日上午在北大燕园开Board会议。
+     - **AP：周冉通知各位Board，收集议题，尽快发会议邀请。**
+2. 12月13日下午在北大旁边组织Compass社区迷你峰会，面向高校、开源项目、OSPOs、开发者、企业等，围绕Compass Lab，讨论学术研究成果落地Compass及Compass在开源评估领域的新进展等。
+     - **AP：周冉尽快出策划方案。**
+3. 指标模型接口token，下周可以给到50多个。
+4. 下周出gitee指数替换方案。
+5. 开源社年报数据篇希望与OSS Compass合作，展现国内外开源项目社区发展状况。
+     - **AP：盛翔、晔晖与开源社再讨论。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-10-31开源指南针会议纪要
 ## 时间
 北京时间2023年10月31日下午14:15~15:00
