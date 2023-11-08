@@ -1,3 +1,18 @@
+# 2023-11-07开源指南针会议纪要
+## 时间
+北京时间2023年11月07日下午14:15~14:20
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[赖兴友](https://github.com/coder-sett)、[黄超群](https://github.com/nanzm)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)、[齐国强](https://github.com/guoqiangqi)
+## 主题——Compass前后端开发、官网及运营事项进展
+### 官网 & 前后端
+1. sitemap已更新，前端需要把关键词和报告里的仓库信息提取出来。文档加sitemap插件自动生成sitemap信息。
+    - **AP：兴友与华添沟通，进行前端支持。**
+### 运营
+1. 12月13日在北京召开Compass年会，具体安排周四再讨论。
+    - **AP：周冉提前准备相关讨论事项。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-11-02开源指南针会议纪要
 ## 时间
 北京时间2023年11月02日下午14:15~14:45
