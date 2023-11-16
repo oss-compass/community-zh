@@ -1,3 +1,36 @@
+# 2023-11-14开源指南针会议纪要
+## 回放
+https://meeting.tencent.com/v2/cloud-record/share?id=5b082afe-9400-4f45-95fa-0c5aac830c34&from=3&is-single=true
+## 时间
+北京时间2023年11月14日下午14:15~15:25
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[龙文选](https://github.com/hncslwx)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[黄超群](https://github.com/nanzm)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)、[邱睿桥](https://dune0310421.github.io/)、[齐国强](https://github.com/guoqiangqi)、止戈
+## 主题——Compass前后端开发、官网及运营事项进展
+### 官网
+1. Compass评估体系架构图已重构。
+    - **AP：钟峰根据重构图进行官网展示设计。**
+2. 首页顶部设计更新：目前更新方案总体可以，图片部分轮播展示Compass的不同功能。
+    - **AP：钟峰更新设计方案。**
+3. 首页顶部文案根据展示方案进行了调整。
+    - **AP：周冉确认调整后的文案。**
+### 运营
+1. Gitee指数替换、学术落地Compass事宜待推进。
+    - **AP：张盛翔尽快推进相关事宜。**
+2. 近期一些高校表达了与Compass合作的兴趣，待后续推进。
+    - **AP：张盛翔跟进相关合作。**
+3. 12月13日年会上将公布Compass新进展：Gitee上线Compass、详细化指标上线、Compass学术界面上线。
+### 前后端
+1. 详细化指标前端快完成，待上灰度测试及调整；表格需要支持下载。
+    - **AP：赖兴友添加表格下载选项、尽快完成剩余前端工作，并部署到测试服务器。**
+    - **AP：钟峰对图标、颜色、展示形式等给出调整方案，赖兴友根据方案进行修改。**
+    - **AP：王晔晖提供各个指标及描述文字的调整方案。**
+2. 详细化指标信息获取权限需根据相应社区角色进行区分，普通用户登录后默认看到1个月内的数据，其他用户可额外申请。
+    - **AP：钟峰提供申请权限的界面设计方案；王晔晖组织Board对详细化指标信息使用权限问题进行讨论和决策。**
+3. 收录的开源项目仓库新建多标签分类：仓库原有标签可做分类参考，建议直接抓取。
+    - **AP：覃华添输出数据结构和方案，张盛翔推进后续工作。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-11-09开源指南针会议纪要
 ## 时间
 北京时间2023年11月09日下午14:15~14:20
@@ -246,6 +279,8 @@ https://github.com/orgs/oss-compass/projects/1
 https://github.com/orgs/oss-compass/projects/1
 
 # 2023-09-12开源指南针会议纪要
+## 回放
+https://meeting.tencent.com/user-center/shared-record-info?id=e04f3283-e507-4ad5-9464-89328ea3933d&from=7&reload=1
 ## 时间
 北京时间2023年9月12日下午14:15~15:09
 ## 与会人
