@@ -1,3 +1,34 @@
+# 2023-11-21开源指南针会议纪要
+## 时间
+北京时间2023年11月21日下午14:15~15:05
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[龙文选](https://github.com/hncslwx)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[黄超群](https://github.com/nanzm)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)、[齐国强](https://github.com/guoqiangqi)
+## 主题——Compass前后端开发、官网及运营事项进展讨论
+### 产品方案
+1. Project Deep Dive Insight（项目深度洞察） 方案讨论
+    - **AP：王晔晖向赖兴友提供相关标题及文字说明调整方案。**
+2. Gitee 指数方案讨论 （token）
+   - 新增20个token。
+3. Compass学术方案讨论
+    - **AP：王晔晖、钟峰、张盛翔再讨论。**
+### 官网
+1. 评估体系架构图进展：设计方案初步成型，正在从平面图转换为3D图，仅首页展示，项目报告页不需要进行展示。
+    - **AP：钟峰尽量周三出设计稿，赖兴友周三中午前修改前端。**
+2. 官网首页前端调整进行中，图片轮播目前先放项目分析和详细化指标两个页面。
+    - **AP：赖兴友尽快完成前端调整。**
+3. 文档页大纲已创建[PR](https://github.com/oss-compass/docs-zh/pull/5)，待周四开会分工。
+### 前后端
+1. 仓库多标签数据抓取方案[Issue](https://github.com/oss-compass/compass-projects-information/issues/787)已创建，需讨论。
+    - **AP：王晔晖与张盛翔再讨论。**
+###   运营
+1. 12月13日社区Board会议议程安排已发给Board；年会邀请函已发，听众邀约已完成，参会者预计50人左右。
+2. 年会活动流程细节设计进行中，会场布置物料设计制作进行中。
+    - **AP：周冉与钟峰商量签到墙海报设计及LED屏播放海报设计。**
+3. 年会活动结束后合作宣发媒体待沟通确认。
+    - **AP：周冉与龚宇华商量媒体宣传事宜。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-11-16开源指南针会议纪要
 ## 时间
 北京时间2023年11月16日下午14:15~16:05
