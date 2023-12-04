@@ -1,3 +1,36 @@
+# 2023-11-28开源指南针会议纪要
+## 时间
+北京时间2023年11月28日下午14:15~14:56
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[齐国强](https://github.com/guoqiangqi)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass产品方案、官网前后端事项进展讨论
+### 产品方案
+1. Project Deep Dive Insight（项目深度洞察） 方案
+   - 前端已删除没有的模型，增加了贡献者相关模型。
+   - 删除了指标表格页面中的滚动条。
+   - 指标模型展示形式需要适配Gitee需求。
+     - **AP：覃华添确认需要进行哪些调整。**
+   - 指标表格太长，需要冻结首列。
+     - **AP：赖兴友进行前端修改。**
+   - 里程画像模型后端已完成，待测试。
+     - **AP：李升保尽快完成测试。**
+   - 年会前完成贡献者画像三个模型即可，其他模型后续再完成。
+   - 领域画像表格筛选
+     - **AP：赖兴友与覃华添核对具体数据。**
+2. Gitee 指数方案讨论 （token）
+   - 方案已定，后端进行中。
+   - 将会对推荐的2万多个仓库进行Gitee指数替换。
+     - **AP：覃华添与李升保核对OpenHarmony、openEuler相关仓库，确认具体sig与仓库清单。**
+3. Compass学术方案
+   - token已增加至60多个。
+   - 页面设计已初步完成。
+     - **AP：张盛翔补充合作流程内容。周冉创建腾讯问卷账号，用于创建问卷、收集信息。赖兴友开始前端开发。**
+### 官网
+1. 评估体系三维图前端开发进行中，Gitee侧也用图表展示。
+   - **AP：赖兴友与钟峰核对具体设计调整。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-11-23开源指南针会议纪要
 ## 回放 
 https://meeting.tencent.com/user-center/shared-record-info?id=bd439590-0e7b-4955-9612-375ea7f99b04&from=7
