@@ -1,3 +1,33 @@
+# 2023-11-30开源指南针会议纪要
+## 时间
+北京时间2023年11月30日下午14:15~14:45
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[齐国强](https://github.com/guoqiangqi)、[周冉](https://github.com/JuliaZhou2022)、止戈
+## 主题——Compass产品方案及前后端、官网事项进展讨论
+### 产品方案
+1. Project Deep Dive Insight（项目深度洞察）方案
+   - 界面名称改为“项目深度洞察”。
+   - 重新设计的方案确认OK，前端可开始。
+      - **AP：赖兴友尽快开始前端工作。**
+    - 详细化指标饼图颜色需再调整。
+       - **AP：赖兴友进行相应调整。**
+2. Compass学术
+    - 合作流程已完成，研究领域部分需确认文案，前端按目前设计开始。
+      - **AP：周冉与张盛翔确认最终文案。赖兴友开始前端开发。**
+    - 申请验证页面设计方案尽快提供给前端。
+      - **AP：钟峰尽快提供这部分设计方案。**
+### 官网
+- 评估体系三维图已调整，整体效果已优化，可继续前端开发。
+   - 图下方不显示数据。
+   - 接口已创建，前端可导入真实数据。
+   - 设计需要与Gitee前端同步。
+     - **AP：钟峰跟Gitee侧前端沟通。**
+### 前后端
+1. 生产中出现的bug已修复，贡献者画像今天完成。
+2. OpenSearch已扩容。
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-11-28开源指南针会议纪要
 ## 时间
 北京时间2023年11月28日下午14:15~14:56
