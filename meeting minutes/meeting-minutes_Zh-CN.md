@@ -1,3 +1,48 @@
+# 2023-12-07开源指南针会议纪要
+## 时间
+北京时间2023年12月07日下午14:15~14:59
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[龙文选](https://github.com/hncslwx)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)、[齐国强](https://github.com/guoqiangqi)、南大-司徒凌云
+## 主题——Compass产品方案及前后端、官网事项进展讨论
+### 产品方案
+1. Project Deep Dive Insight（项目深度洞察）方案
+    - 贡献者三个模型今天完成。
+    - 新增图表数据接口已完成。
+    - 治理仓与软件制品仓对比分析bug待解决。
+       - **AP：赖兴友、覃华添本周内尽快解决。**
+    - OpenHarmony、openEuler、openGauss、MindSpore这4个社区2周内的数据已上灰度，目前在跑3个月内的数据。
+       - **AP：覃华添尽快跑完，并及时分配资源给GVP仓。**
+2. Compass学术
+   - 名称改为Compass协作。
+   - 已有北大、南大、openEuler等6个案例。
+    - 文本国际化已完成。
+    - 收集问卷暂时改邮箱联系，修改原有文案。
+       - **AP：王晔晖提供修改内容，赖兴友修改前端。**
+    - 立即体验前端已OK，后端待提交数据。
+       - **AP：李升保今天提交。**
+   - 南大提供的工具是私有项目，工具可部署到Compass。建议打包成web服务。
+       - **AP：李升保跟覃华添讨论解决。**
+3. Gitee指数替换
+    - 已部署到灰度，有些小bug，后续再修复。
+    - OpenHarmony、openEuler、openGauss、MindSpore这4个社区的Gitee GVP仓原有Gitee指数图备份。
+      - **AP：李升保进行备份。**
+### 官网
+1. 文档页尽快更新：
+    - 评估体系文档结构改为与看板页面类似的结构。
+        - **AP：李升保尽快更新文档结构、王晔晖补充内容。**
+     - 公众号已发布的三篇关于评估体系的文章需要翻译并在本周五更新到网站。
+       - **AP：周冉翻译文章，王晔晖提供图片翻译，赖兴友更新前端。**
+2. 日历前端已添加例会与年会事件，待后端部署。
+### 前后端
+- opensearch深度查询scroll id数量异常问题已解决。
+### 运营
+1. 年会过程需要制作3页ppt，作为会前、茶歇、结束时LED展示的内容。
+   - **AP：周冉创建issue，钟峰设计制作。**
+2. 全部功能上线后进行demo录屏，作为年会开场视频素材。
+   - **AP：王晔晖周末提供录屏素材，周冉制作视频。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2023-12-05开源指南针会议纪要
 ## 时间
 北京时间2023年12月05日下午14:15~15:03
