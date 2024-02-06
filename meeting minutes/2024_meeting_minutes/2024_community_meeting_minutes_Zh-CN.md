@@ -1,3 +1,27 @@
+# 2024-2-6开源指南针社区会议纪要
+## 时间
+北京时间2024年2月6日下午14:15~14:40
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[龙文选](https://github.com/hncslwx)、[赖兴友](https://github.com/coder-sett)、[覃华添](https://github.com/EdmondFrank)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass前后端、运营事项进展讨论
+### 前后端
+1. 组织信息修改功能已上线，经测试后已生效。
+2. 领域画像展示形式已更新，文字提示以浮窗展示，本周上线。
+3. 项目报告页的三维评估体系图全屏后已保持与首页一致。
+4. Compass徽章有待更新。
+   - **AP：赖兴友找钟峰沟通重新设计徽章。**
+5. Compass代理更新，目前测试较稳定，后续继续观察。
+6. 后端部分bug已修复。
+7. Compass数据访问权限目前设置了访问时间间隔与次数限制，建议调整为每小时1000次。 
+   - **AP：覃华添修改后尽快上线。** 
+### 运营
+1. Compass数据使用协议本周内完成初稿。
+   - **AP：张盛翔尽快完成。** 
+2. 组织信息修改功能及领域画像更新推文本周发布。
+   - **AP：周冉尽快完成后发布。** 
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2024-1-23开源指南针社区会议纪要
 ## 时间
 北京时间2024年1月23日下午14:15~14:53
