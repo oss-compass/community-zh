@@ -1,3 +1,32 @@
+# 2024-03-12开源指南针社区会议纪要
+## 时间
+北京时间2024年03月12日下午14:15~14:59
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[钟峰](https://github.com/poorfish)、[赖兴友](https://github.com/coder-sett)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass社区前后端及运营事项讨论
+### 前后端
+1. 关于bug修复的Issue模板已创建，后续在所有仓库Issue创建流程中都加入这个模板。
+   - **AP：赖兴友进行添加。**
+2. 完成在repo阶段收集topic数据，已提交[Issue](https://github.com/oss-compass/compass-metrics-model/issues/104)，需合并相关PR.
+   - **AP：王晔晖审核并合并相关PR。**
+3. 模型计算占用内存大的问题已解决，[Issue](https://github.com/oss-compass/compass-metrics-model/issues/110)已关闭。
+4. 贡献者领域画像已添加signed-off-by、reviewed-by、code_committer等指标，相关[Issue](https://github.com/oss-compass/compass-metrics-model/issues/106)已关闭。
+5. 项目深度洞察的Issue/PR详情表格信息精简：去掉URL列，标题加超链接，创建时间、关闭时间合并成一列，处理时长加超出平均值预警提示。
+   - **AP：赖兴友与钟峰确认具体修改内容后进行前端调整；李升保、覃华添提供后端数据支持，如重新计算平均值、提供数据接口等。**
+### 运营
+1. 用户调研问卷第二稿完成，需要根据开会过程中的讨论进行修改并进行答题测试。
+   - **AP：周冉尽快修改后请团队成员进行填写测试。**
+2. 需尽快完成第二届OSPO Summit和2024中国开发者生态峰会参会海报、易拉宝等设计事宜，本周进行第一波参会宣传。
+   - **AP：周冉尽快与主办方确认参会细节，完成相关设计及宣传工作。**
+3. Compass数据使用流程：放在Compass协作页面，去掉顶部的”联系我们“按钮，改成”数据使用申请“按钮，并以弹窗形式展示相关流程及协议内容。
+   - **AP：赖兴友进行相关前端修改，周冉尽快提供英文版流程与协议并在前端修改完成后进行Twitter及公众号宣传。**
+4. 设置社区例会会议提醒。
+   - **AP：周冉与赖兴友进行相关设置。**
+5. 3月底社区开发成员线下研讨会定于3月26日在开源中国进行，开会前需发会议通知。
+   - **AP：周冉在3月26日前向参会人员发送会议通知。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2024-03-05开源指南针社区会议纪要
 ## 时间
 北京时间2024年03月05日下午14:15~14:47
@@ -16,8 +45,8 @@
    - **AP：赖兴友与覃华添确认并修改。**
 5. 项目仓库的topic数据要获取到Compass数据集中。
    - **AP：李升保收集该数据。**
-6. 后端工作主要涉及表格筛选参数支持、依赖正常更新等，Elasticsearch扩容下周要进行。
-   - **AP：覃华添尽快进行ES扩容。**
+6. 后端工作主要涉及表格筛选参数支持、依赖正常更新等，OpenSearch扩容下周要进行。
+   - **AP：覃华添尽快进行OpenSearch扩容。**
 7. 近期跑模型内存过高的问题本周解决，issue已创建。
     - **AP：李升保尽快解决。**
 8. 仓库Dashboard维护：及时更新状态，3月底前处理所有遗留task、更新相应状态。
