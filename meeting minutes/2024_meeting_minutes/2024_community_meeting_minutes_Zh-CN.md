@@ -1,3 +1,25 @@
+# 2024-03-19开源指南针社区会议纪要
+## 时间
+北京时间2024年03月19日下午14:15~14:33
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[钟峰](https://github.com/poorfish)、[覃华添](https://github.com/EdmondFrank)、[赖兴友](https://github.com/coder-sett)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)、[齐国强](https://github.com/guoqiangqi)、符芬菊-开放原子
+## 主题——Compass社区前后端及运营事项讨论
+### 前后端
+1. 项目深度洞察详情页上方新增搜索栏，相关[Issue](https://github.com/oss-compass/compass-web/issues/330)已创建，需尽快完成前端修改。
+   - **AP：赖兴友尽快完成。**
+2. 后端近期修复了一些bug。
+3. OpenSearch扩容完成，暂时未发现问题。
+4. 内存使用优化已上线，下周全量刷新数据后再看效果。
+### 运营
+1. 3月28-29日第二届OSPO Summit参会：微信公众号已发参会宣传文案；王晔晖参加29日上午的office hour和下午的圆桌讨论；OSS Compass使用调查问卷在大会上的投放细节需尽快明确。
+   - **AP：周冉尽快与主办方确认问卷投放细节。**
+2. 3月30日2024中国开发者生态峰会参会：参加社区百宝箱市集，主办方提供展台、小展架，需要准备易拉宝、展板设计文档、电脑等；海报、展板、易拉宝设计中，相关[Issue](https://github.com/oss-compass/community/issues/72)已建，展板上放调查问卷二维码，易拉宝放社区介绍内容、需可复用；考虑在非正式会议环节组织一个圆桌。
+   - **AP：钟峰尽量在本周五提供设计文档；周冉尽快发布文案及海报宣传，并在本周内安排易拉宝制作、提交展板设计文件给主办方进行制作，同时确认非正式会议议题征集截止时间。**
+3. OSS Compass使用调查问卷中问题的选项需要进一步审核、确认。
+   - **AP：王晔晖尽快审核并确认。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2024-03-12开源指南针社区会议纪要
 ## 时间
 北京时间2024年03月12日下午14:15~14:59
