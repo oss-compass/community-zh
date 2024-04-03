@@ -1,3 +1,24 @@
+# 2024-04-02开源指南针社区会议纪要
+## 时间
+北京时间2024年04月02日下午14:15~14:34
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[龙文选](https://github.com/hncslwx)、[覃华添](https://github.com/EdmondFrank)、[赖兴友](https://github.com/coder-sett)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)、[齐国强](https://github.com/guoqiangqi)
+## 主题——Compass社区前后端及运营事项讨论
+### 前后端
+1. 近期openKylin社区运营提到的项目报告页数据丢失问题已排查，是由于之前内存不足导致节点崩溃造成的，涉及2000多个仓库，目前已修复。
+   - **AP：周冉告知openKylin社区运营问题已修复。**
+2. 上周末用户反馈的项目报告页数据异常等bug需要同步到Issue。
+   - **AP：张盛翔创建相关Issue。**
+### 运营
+1. 上周社区参加在深圳举办的第二届OSPO Summit以及2024中国开发者生态峰会，通过问卷和一对一访谈进行了用户调研，目前收集到的反馈主要有：
+   - 相比于开源社区维护者、运营人员等直接参与、管理开源项目的人员，OSPOs、基金会、咨询机构等间接管理或观测开源项目的人员会更多的使用到目前OSS Compass已有的开源评估SaaS服务；
+   - 受访者普遍表示希望后续OSS Compass的开源评估报告能够在展示数据后给出总结和分析；
+   - 对于社区2024年将要开发的社区画像和贡献者个人画像挂件功能，受访者普遍都有较高期待和使用意愿。
+2. 调查问卷目前收集到的填写数量不多，需要再找用户填写。
+   - **AP：4月中旬前，张盛翔通过Gitee侧再找用户填写。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2024-03-26开源指南针社区会议纪要
 ## 时间
 北京时间2024年03月26日下午14:00~15:00
