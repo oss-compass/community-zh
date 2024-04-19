@@ -1,3 +1,24 @@
+# 2024-04-09开源指南针社区会议纪要
+## 时间
+北京时间2024年04月09日下午14:15~14:31
+## 与会人
+[张盛翔](https://github.com/normal-coder)、[覃华添](https://github.com/EdmondFrank)、[赖兴友](https://github.com/coder-sett)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass社区前后端及运营事项讨论
+### 前后端
+1. 三维评估体系图文字描述修改：南北向改为上下游生态，已完成。
+2. Project info仓库的问题正在处理，本月完成。
+   - **AP：张盛翔尽快处理。**
+3. 项目报告页数据异常等bug部分已提[issue](https://github.com/oss-compass/compass-web-service/issues/70)，其他bug尽快创建issue。
+   - **AP：张盛翔尽快完成创建。**
+4. Compass数据使用流程英文版已上线，相关协议条款可暂时不放网站，待有相关合作时再发给申请者。
+   - **AP：周冉与赖兴友沟通删除申请流程里的协议条款。**
+### 运营
+1. 社区报名开源之夏活动已通过审核，现在需要进行项目申报。
+   - **AP：张盛翔尽快填写项目，周冉补充。**
+2. 用户调查问卷继续保持收集，暂不处理。
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2024-04-02开源指南针社区会议纪要
 ## 时间
 北京时间2024年04月02日下午14:15~14:34
