@@ -1,3 +1,20 @@
+# 2024-04-16开源指南针社区会议纪要
+## 时间
+北京时间2024年04月16日下午14:15~14:25
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[钟峰](https://github.com/poorfish)、[覃华添](https://github.com/EdmondFrank)、[赖兴友](https://github.com/coder-sett)、[李升保](https://github.com/lishengbao)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass社区前后端及运营事项讨论
+### 前后端
+1. 后端流程更新，已支持前端一键发版，后续前端更新无需后端进行部署操作。
+2. 项目二级分类页面新增搜索、排序、分页功能。
+3. Github项目名大小写不敏感，Gitee项目名大小写敏感，目前Compass保持大小写敏感以便进行兼容，相关[issue](https://github.com/oss-compass/compass-web-service/issues/69)。
+### 运营
+1. 近期，Compass与OpenHarmony合作项目将在Compass落地。
+2. 开源之夏项目申报需尽快进行。
+    - **AP：张盛翔本周内尽快填写内容，周冉进行整理补充。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2024-04-09开源指南针社区会议纪要
 ## 时间
 北京时间2024年04月09日下午14:15~14:31
