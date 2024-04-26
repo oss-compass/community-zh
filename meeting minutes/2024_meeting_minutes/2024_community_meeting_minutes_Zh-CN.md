@@ -1,3 +1,17 @@
+# 2024-04-23开源指南针社区会议纪要
+## 时间
+北京时间2024年04月23日下午14:15~14:30
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[覃华添](https://github.com/EdmondFrank)、[赖兴友](https://github.com/coder-sett)、[李升保](https://github.com/lishengbao)、[齐国强](https://github.com/guoqiangqi)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass社区前后端及运营事项讨论
+### 前后端
+- 项目深度洞察中的机器人、组织筛选相关接口已添加。
+### 运营
+- 开源之夏项目申报：
+   - **AP：周冉本周内完成项目申报。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2024-04-16开源指南针社区会议纪要
 ## 时间
 北京时间2024年04月16日下午14:15~14:25
