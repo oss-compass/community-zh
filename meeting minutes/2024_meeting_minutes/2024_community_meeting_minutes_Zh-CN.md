@@ -1,3 +1,19 @@
+# 2024-05-07开源指南针社区会议纪要
+## 时间
+北京时间2024年05月07日下午14:15~14:32
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[赖兴友](https://github.com/coder-sett)、[李升保](https://github.com/lishengbao)、[齐国强](https://github.com/guoqiangqi)、[周冉](https://github.com/JuliaZhou2022)、王小檬-一所
+## 主题——Compass社区前后端及运营事项讨论
+### 前后端
+暂无更新。
+### 运营
+1. 近期有学生咨询OSS Compass报名开源之夏的项目，建议请学生跟导师直接联系，请导师提前介入学生筛选过程。
+   - **AP：周冉告知咨询的学生联系导师。**
+2. 通知之前申请使用Compass开源评估数据的境外大学研究者Compass数据使用流程已ready。
+   - **AP：周冉尽快通知相关人员。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2024-04-23开源指南针社区会议纪要
 ## 时间
 北京时间2024年04月23日下午14:15~14:30
