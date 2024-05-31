@@ -1,3 +1,22 @@
+# 2024-05-21开源指南针社区会议纪要
+## 时间
+北京时间2024年05月21日下午14:15~14:29
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[龙文选](https://github.com/hncslwx)、[赖兴友](https://github.com/coder-sett)、[李升保](https://github.com/lishengbao)、[齐国强](https://github.com/guoqiangqi)、[周冉](https://github.com/JuliaZhou2022)
+## 主题——Compass社区前后端及社区合作事项讨论
+### 前后端
+1. 近期官网博客内容有更新。
+2. 机器人排除功能已OK，数据更新后生效。
+3. 官网邮箱收不到邮件需处理。
+   - **AP：张盛翔与覃华添尽快处理。**
+4. 近日一位用户反馈其Gitee项目申请订阅Compass分析报告的请求已等待处理较长时间，需尽快处理。
+   - **AP：张盛翔尽快处理。**
+### 社区合作
+1. 近期提交的学术研究使用Compass数据的申请需给出评审意见。
+   - **AP：张盛翔发邮件告知申请者相关意见和后续合作方案。**
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2024-05-14开源指南针社区会议纪要
 ## 时间
 北京时间2024年05月14日下午14:15~14:25
