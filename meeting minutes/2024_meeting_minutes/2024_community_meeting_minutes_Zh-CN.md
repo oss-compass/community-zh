@@ -1,3 +1,18 @@
+# 2024-08-20开源指南针社区会议纪要
+## 时间
+北京时间2024年08月20日下午14:15~14:37
+## 与会人
+[王晔晖](https://github.com/eyehwan)、[张盛翔](https://github.com/normal-coder)、[周冉](https://github.com/JuliaZhou2022)、[齐国强](https://github.com/guoqiangqi)
+## 主题——Compass社区前后端及运营事项讨论
+### 前后端
+社区开源之夏的项目已完成模型维度指标的设计，目前正式进入开发阶段。
+### 运营
+1. 开源项目分析洞察访谈节目第一期8月23号进行。
+2. Compass与CHAOSS合作的开源评估ISO国际标准撰写进行中。
+3. 2024开放原子开源生态大会：Compass调研问卷设计进行中。
+## 看板跟踪
+https://github.com/orgs/oss-compass/projects/1
+
 # 2024-08-06开源指南针社区会议纪要
 ## 时间
 北京时间2024年08月06日下午14:15~15:00
