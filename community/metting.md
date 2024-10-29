@@ -13,7 +13,7 @@ description: 参加 OSS-Compass 社区研讨和交流活动
 - **会议时间**：北京时间每周二 14:15-15:15 (GMT+08:00)
 - **腾讯会议号**：513-5733-3878
 
-[![Join the meeting](media/metting-en.png)](https://meeting.tencent.com/dm/AE8RoTY40SfS)
+[![Join the meeting](community/media/微信图片_20241029141959.png)](https://meeting.tencent.com/dm/AE8RoTY40SfS)
 
 如果点击按钮无效，你可以复制点击或复制以下 URL 到浏览器。
 
