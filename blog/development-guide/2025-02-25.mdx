@@ -1,0 +1,88 @@
+---
+title: 别错过！这份OSS-Compass开发指南超实用！
+tags:
+  - 博客
+---
+
+哈喽，各位开源小伙伴们好久不见啦！新的一年，OSS-Compass 社区也将给大家带来新的惊喜！今天，我们将为大家分享由 OSS-Compass 社区整理的高效开发指南，快跟随我们一起来看看吧~
+
+<!--truncate-->
+
+**OSS-Compass 社区开发指南：**
+
+这份开发指南由 OSS-Compass 社区团队成员联合整理，其核心目标是帮助开发者高效地部署 GrimoireLab、搭建前后端开发环境和扩展 Compass 指标模型，涵盖从基础设施搭建到指标开发的完整流程。
+
+**网址：** https://github.com/oss-compass/docs/tree/main/developer-guide
+
+**整体特点：**
+
+- 技术栈全覆盖：涵盖 Ruby、Node.js、Python、Docker、OpenSearch 等主流技术，适应全栈开发需求。
+- 开箱即用：提供 Docker Compose 模板与环境变量模板，减少手动配置成本。
+- 社区驱动：深度集成 GitHub/Gitee 数据源，支持开源社区健康度的多维分析。
+- 模块化设计：服务、数据、指标分层解耦，支持灵活扩展与定制化开发。
+
+**适用场景：**
+
+- 平台部署：快速搭建 OSS-Compass 平台的服务与数据基础设施。
+- 指标开发：扩展 OSS-Compass 平台的分析能力，开发定制化指标和模型。
+- 全栈开发：支持从后端到前端、从数据抓取到指标计算的全栈开发需求。
+
+OSS-Compass 开发指南包括**“数据基础设施部署指南”**、**“前后端部署指南”**、**“数据索引与存储规范 ”**、**“指标开发实战指南”** 四个部分，具体内容如下：
+
+**1.数据基础设施部署指南**
+
+介绍：作为 Compass 数据分析能力的基础，本指南确保 GrimoireLab 生态的高效运行，支撑抓取原始数据为指标计算和开发做基础，并且支持开源社区数据的多平台兼容性。
+
+文件：Grimoirelab Deployment Guide.md
+
+特点：
+
+核心组件标准化：详细部署 OpenSearch 集群与 MariaDB 数据库，提供 Docker Compose 模板及手动配置参考。
+
+定制化组件集成：指导安装 Compass 定制化的 GrimoireLab 组件（如 grimoirelab-elk-gitee），适配 GitHub/Gitee 数据源的数据抓取与增强。
+
+环境预配置：包含 Python 3.8、Docker 等基础环境的安装脚本，降低依赖冲突风险。
+
+**2.前后端部署指南**
+
+介绍：本指南为 Compass 平台的前后端服务部署提供标准化流程，从基础依赖安装到服务启动，覆盖了开发与生产环境的配置细节
+。
+文件：Compass Backend & Frontend Service Deployment.md
+
+特点：
+
+模块化部署：涵盖后端（Ruby on Rails）、前端（Next.js）、网关（Nginx）及定时任务服务的独立部署流程，支持灵活扩展。
+
+详细环境配置：提供完整的 .env 文件模板，涵盖数据库（MariaDB）、消息队列（RabbitMQ）、缓存（Redis）、邮件服务（SMTP）等关键组件的配置示例。
+
+容器化支持：通过 Docker 和 Docker Compose 实现快速部署，包含多服务编排（如前端文档服务与主站服务的分离部署）。
+
+**3.数据索引与存储规范**
+
+介绍：本规范为 OpenSearch 数据存储提供标准化设计，确保数据的一致性与可扩展性，是 Compass 指标模型的核心数据支撑。
+
+文件：OpenSearch Index.md
+
+特点：
+
+索引分类清晰：定义 7 类核心索引（如仓库、提交记录、PR、贡献者等），明确各索引的数据结构与用途。
+
+增强型设计：区分原始数据（如 github-issues）与增强数据（如 github-issues_enriched），支持复杂分析场景。
+
+最终指标聚合：通过 compass_metric_model_custom_v1 索引集中存储计算后的指标结果，便于可视化与 API 调用。
+
+**4.指标开发实战指南**
+
+介绍：面向开发者的实战手册，结合代码示例与配置模板，指导如何在 Compass 生态中开发定制化指标，强调可复用性与本地调试的高效性。
+
+文件：开发指标步骤\_zh.md
+
+特点：
+
+端到端流程：从数据抓取（GrimoireLab 调试）、指标开发（Python 函数扩展）到 Lab 集成，覆盖完整开发周期。
+
+调试友好：提供 VSCode 远程调试配置示例，支持 raw 与 enrich 分阶段执行，降低开发门槛。
+
+模块化扩展：通过修改 thresholds.yaml 和 base_metrics_model.py 实现新指标的快速注册与阈值配置。
+
+好啦，以上就是 OSS-Compass 开发指南的详细介绍啦，希望这份开发指南能够帮助各位开发者更好地理解、使用或参与 OSS-Compass 平台的开发工作，同时也欢迎更多的开源爱好者可以加入到 OSS-Compass 社区，一起为开源事业添砖加瓦！
