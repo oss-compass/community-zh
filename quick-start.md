@@ -58,6 +58,6 @@ description: Coming soon!
 
 :::info 你可以点击此进行访问
 
-<https://github.com/oss-compass/compass-projects-information/pulls>
+https://github.com/oss-compass/compass-projects-information/pulls
 
 :::

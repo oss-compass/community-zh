@@ -66,9 +66,9 @@ OSS Compass (以下简称为“开源指南针”) 由 OSCHINA（"深圳市奥�
 
 我们通知您，我们使用以下国际第三方服务来提供我们的服务：
 
-- Google 公司（Google Apps、Google Analytics）：<https://policies.google.com/privacy?hl=en-US>
-- 百度公司（百度统计）：<https://tongji.baidu.com/web/help/article?id=330&type=0>
-- 神策数据（神策分析）：<https://www.sensorsdata.cn/compliance/law.html>
+- Google 公司（Google Apps、Google Analytics）：https://policies.google.com/privacy?hl=en-US
+- 百度公司（百度统计）：https://tongji.baidu.com/web/help/article?id=330&type=0
+- 神策数据（神策分析）：https://www.sensorsdata.cn/compliance/law.html
 
 我们要求所有第三方尊重您的个人数据的安全性，并根据法律处理它。我们不允许我们的第三方服务提供商将您的个人数据用于他们自己的目的，并仅允许他们根据我们的指示为指定的目的处理您的个人数据。
 
@@ -78,7 +78,7 @@ OSS Compass (以下简称为“开源指南针”) 由 OSCHINA（"深圳市奥�
 
 ## 您的权利
 
-访问和修改。如果您已经在我们注册并创建了一个 开源指南针 ID 或 开源指南针 账户，希望访问或更新其中包含的某些个人信息，您可以在线通过访问您各自的账户中的“我的资料”或“我的帐号”设置或访问 <https://compass.gitee.com> 来执行此操作。如果您对我们的做法或本隐私政策有任何问题，请通过 compass-service@gitee.com 联系我们。
+访问和修改。如果您已经在我们注册并创建了一个 开源指南针 ID 或 开源指南针 账户，希望访问或更新其中包含的某些个人信息，您可以在线通过访问您各自的账户中的“我的资料”或“我的帐号”设置或访问 https://compass.gitee.com 来执行此操作。如果您对我们的做法或本隐私政策有任何问题，请通过 compass-service@gitee.com 联系我们。
 
 ## 隐私政策的更改
 

@@ -15,7 +15,7 @@ description: 加入 OSS-Compass Slack 群组
 
 :::info 加入我们的Slack 群组
 
-<https://join.slack.com/t/oss-compass/shared_invite/zt-1ttt9sv5h-8E~oPP6VJqm8ero5qH9LlA>
+https://join.slack.com/t/oss-compass/shared_invite/zt-1ttt9sv5h-8E~oPP6VJqm8ero5qH9LlA
 
 :::
 
