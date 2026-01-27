@@ -14,5 +14,6 @@ description: 加入 OSS-Compass 社区微信交流群
 如果二维码过期，你可以通过以下渠道联系我们：
 
 - [GitHub](https://github.com/oss-compass)
+- [AtomGit](https://atomgit.com/oss-compass)
 - [Gitee](https://gitee.com/oss-compass)
 - [Slack 频道](./slack.md)
