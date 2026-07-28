@@ -1,5 +1,5 @@
 ---
-id: community/meeting minutes/meeting_minutes/2025_board-meeting_minutes
+id: board-meeting-minutes-2025
 title: 2025 开源指南针 Board 会议纪要
 ---
 

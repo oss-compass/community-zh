@@ -1,5 +1,5 @@
 ---
-id: community/meeting minutes/meeting_minutes/2026_board-meeting_minutes
+id: board-meeting-minutes-2026
 title: OSS-Compass 社区 2026 年 Board 会议纪要
 ---
 
